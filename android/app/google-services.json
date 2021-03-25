@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "950158462668",
+    "project_id": "flutter-push-sms-f53a1",
+    "storage_bucket": "flutter-push-sms-f53a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950158462668:android:37ce24c61ddd8c49c27c69",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950158462668-3henkfe0pe3kala2uha8gdvkbsc9tb0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_notification",
+            "certificate_hash": "ec178b238ee846fb2571cca2d596f19399e3e0e6"
+          }
+        },
+        {
+          "client_id": "950158462668-32hlpbgshj42c30lb9lrasn5dukke4d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJHmegyWrmzCvYinyxOwFYS_9xTI_3Ys8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950158462668-32hlpbgshj42c30lb9lrasn5dukke4d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
